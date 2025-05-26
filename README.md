@@ -43,8 +43,7 @@ This dashboard is designed to assist loan officers, risk analysts, and decision-
 ## 👩‍💻 Author
 
 Made with ❤️ by Dhwani Zala  
-[LinkedIn](https://www.linkedin.com/in/dhwani-zala-276a2a213/) | [Portfolio](https://stable-jada-z49rj26g.dcms.site/)
-Get In Touch : dhwanizala25@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dhwani-zala-276a2a213/) | [Portfolio](https://stable-jada-z49rj26g.dcms.site/) | dhwanizala25@gmail.com
 ---
 
 
